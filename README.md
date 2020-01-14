@@ -1,0 +1,2 @@
+# ewasm-demo
+ewasm contract
